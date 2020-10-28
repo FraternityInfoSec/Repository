@@ -1,0 +1,13 @@
+Package: trape
+Architecture: aarch64
+Version: 0.19
+Maintainer: Fraternity InfoSec
+Installed-Size: 120
+Filename: unstable/main/binary-aarch64/
+Size: 22644
+MD5sum: 2791c2103cceefddbded950f70be06fa
+SHA1: 9abcedfe7cfbfc4ec74459cde0ddff744e1adf45
+SHA256: 34cda8e1addcb9c06e638b18434515649a63ca70186a6fc8b6820dd184994730
+SHA512: 4048b3bec6f8ba185ea2ba87b85728378cfe68ae9a545ec5a12c0c6f9f1ff338dbac249c9b3215fb07f02a5f0f7278a42eaed503affe0d4f3c256cb85b1905d7
+Homepage: https://github.com/danmar/cppcheck
+Description: tool for static C/C++ code analysis
