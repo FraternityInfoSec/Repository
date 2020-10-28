@@ -4,7 +4,7 @@ Version: 2.0
 Maintainer: Fraternity InfoSec
 Installed-Size: 4168
 Depends: python2.7, build-essential
-Filename: dists/termuxblack/main/binary-all/trape_2.0_all.deb
+Filename: unstable/main/binary-aarch64/trape_2.0_all.deb
 Size: 869250
 MD5sum: 8be449d281ad660438e89937fedc45bd
 SHA1: 739b887d84874725376794ec3861a8a89008fad0
