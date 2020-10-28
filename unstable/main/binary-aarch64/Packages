@@ -1,13 +1,14 @@
 Package: trape
-Architecture: aarch64
-Version: 0.19
+Architecture: all
+Version: 2.0
 Maintainer: Fraternity InfoSec
-Installed-Size: 120
-Filename: unstable/main/binary-aarch64/
-Size: 22644
-MD5sum: 2791c2103cceefddbded950f70be06fa
-SHA1: 9abcedfe7cfbfc4ec74459cde0ddff744e1adf45
-SHA256: 34cda8e1addcb9c06e638b18434515649a63ca70186a6fc8b6820dd184994730
-SHA512: 4048b3bec6f8ba185ea2ba87b85728378cfe68ae9a545ec5a12c0c6f9f1ff338dbac249c9b3215fb07f02a5f0f7278a42eaed503affe0d4f3c256cb85b1905d7
-Homepage: https://github.com/danmar/cppcheck
-Description: tool for static C/C++ code analysis
+Installed-Size: 4168
+Depends: python2.7, build-essential
+Filename: dists/termuxblack/main/binary-all/trape_2.0_all.deb
+Size: 869250
+MD5sum: 8be449d281ad660438e89937fedc45bd
+SHA1: 739b887d84874725376794ec3861a8a89008fad0
+SHA256: e6d08ccb15e63aba87e0c45989a9d27af3dccc8429f1a401b711919c0c8f621d
+SHA512: 1858c601c0bf7b298f476f73480887adcdb1643e8235197526ac9c045625f7a14a25b55cc26cb902acdc2ab0bd01fc81380e9e8eafc293891ebe34e0613b63ac
+Homepage: https://github.com/jofpin/trape/blob/master/README.md
+Description: Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time.
