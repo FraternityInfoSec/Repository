@@ -4,7 +4,7 @@ Version: 1.0-1
 Maintainer: finfosec
 Installed-Size: 37944
 Depends: nodejs, apkmod
-Filename: dists/unstable/main/weevely.deb
+Filename: dists/unstable/main/binary-aarch64/weevely_1.0_aarch64.deb
 Size: 17969828
 MD5sum: 988d04627283f6a25683bedc23f70d31
 SHA1: 2b151a4241548f2688b348c1f5f11d0307ac163f
