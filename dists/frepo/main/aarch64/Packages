@@ -4,7 +4,7 @@ Version: 1.0
 Maintainer: gokulkrishnan @ fraternityinfosec
 Installed-Size: 68
 Depends: prettytable, Mako, PyYAML, python-dateutil, PySocks, pyOpenSSL
-Filename: dists/unstable/main/binary-aarch64/weevely_1.0_aarch64.deb
+Filename: dists/frepo/main/aarch64/weevely_1.0_aarch64.deb
 Size: 148000
 MD5sum: 18489d14ffac7d4c677e7744ee0c8837
 SHA1: ff8ac11e3b21b18ba31d1bb01a3fd1b973c0875f 
